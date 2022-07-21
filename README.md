@@ -90,12 +90,6 @@ Similar to the procedure described above:
 5. Evaluate on test and validation `./scripts/synthbio/eval_seq2seq.sh`
 6. Refer to `$OUT/synthbio/s1/dev_output/metrics.txt` for the generated metric scores
 
-### Pretrained models and reported results
-We release all our pretrained models, templates, and outputs [here](). the output folder file structure should look like
-```
-./
-```
-
 ## File structure of this repo
 1. `*_args.py` files organize argument parsers we used in different experiments. `*_utils.py` contain miscellaneous helper functions.
 2. Data related code
