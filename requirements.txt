@@ -1,0 +1,8 @@
+torch==1.8.0+cu111
+transformers==4.11.0
+datasets==1.12.1
+tqdm==4.62.3
+numpy==1.19.4
+sacrebleu
+bert_score
+rouge_score
